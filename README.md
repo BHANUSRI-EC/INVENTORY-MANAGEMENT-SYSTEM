@@ -17,7 +17,6 @@ Inventory Management System Assignment Code (ELITE TECHNO GROUPS)
    *Total quantity of products is genetared
    *Product Id is generated
    *Total ammount is generated
-#
-About me: Student Pursuing 3rd B.tech(While doing this code) From ELECTRONICS AND COMMUNICATIONS Branch Intern at ELITE TECHNO GROUPS from Python for AI/ML domain
-Important Links:
+# About me: Student Pursuing 3rd B.tech(While doing this code) From ELECTRONICS AND COMMUNICATIONS Branch Intern at ELITE TECHNO GROUPS from Python for AI/ML domain
+# Important Links:
    https://www.linkedin.com/in/bhanu01
